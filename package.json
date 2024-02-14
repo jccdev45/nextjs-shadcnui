@@ -1,5 +1,6 @@
 {
   "name": "nextjs-shadcnui",
+  "description": "NextJS/shadcn-ui template with custom eslint/Prettier config (@ianvs/prettier-plugin-sort-imports, eslint-plugin-tailwindcss, prettier-plugin-tailwindcss)",
   "version": "0.1.0",
   "private": true,
   "scripts": {
